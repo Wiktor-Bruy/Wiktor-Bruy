@@ -42,6 +42,6 @@ I'm currently a front-end developer with knowledge of HTML, CSS, JavaScript, Typ
 
 ## :mailbox_closed: Contacts
 
-- [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="100"/>](https://www.linkedin.com/in/wiktor-bruj/)
+- [<img src="./public/linkedin.jpg" width="90"/>](https://www.linkedin.com/in/wiktor-bruj/)
 - [<img src="./public/telegram.svg" width="25">](https://t.me/wiktor_fox1)
 - [:email:](mailto:holmyliszag@ukr.net)
