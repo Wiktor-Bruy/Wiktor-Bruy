@@ -24,10 +24,14 @@ I'm currently a front-end developer with knowledge of HTML, CSS, JavaScript, Typ
 - [Get a pair 2.0](https://github.com/Wiktor-Bruy/get-a-pair2.0) - Hello everyone! We present to you a new version of the browser game where you need to match pairs of pictures. This is a revised and improved version. Images are rendered based on API requests. Round time and overall game time are also tracked. There are several difficulty levels.
 - [Game run](https://github.com/Wiktor-Bruy/game-run) - This is my first game, written in Python. It has no levels. The player must run forward endlessly, destroying enemies. Some can be eliminated by squeezing from above. Others can only be shot. If you lose, you'll be taken to a screen where you can start over.
 
-## 🗣️ Languages
+## :mega: Languages
 
 - English - Elementary
 - Ukrainian - Native
 - Russian - Fluent
 
-## Contacts
+## :mailbox_closed: Contacts
+
+- [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="25"/>](https://www.linkedin.com/in/wiktor-bruj/)
+- [<img src="./public/telegram.svg" width="25">](https://t.me/wiktor_fox1)
+- [:email:](mailto:holmyliszag@ukr.net)
